@@ -1,43 +1,44 @@
-CU Quants Club - 03.11 Coding Challenge
+# CU Quants Club - 03.11 Coding Challenge
 
-Basic Stock Returns and Risk Analysis
+## Basic Stock Returns and Risk Analysis
 
-Overview
+### Overview
 
 This challenge is designed to help CU Quants members practice key concepts in quantitative finance, specifically risk and return analysis. Participants will work with stock price data to calculate daily returns, evaluate risk, and determine the best stock to invest in using the Sharpe ratio.
 
-Task Breakdown
+### Task Breakdown
 
-Calculate Daily Returns: Implement a function to compute daily percentage returns from stock prices.
+1. **Calculate Daily Returns**: Implement a function to compute daily percentage returns from stock prices.
 
-Compute Sharpe Ratio: Calculate key risk and return metrics, including average daily return, standard deviation (risk), annualized return and risk, and the Sharpe ratio.
+2. **Compute Sharpe Ratio**: Calculate key risk and return metrics, including average daily return, standard deviation (risk), annualized return and risk, and the Sharpe ratio.
 
-Identify the Best Stock: Find the stock with the highest Sharpe ratio.
+3. **Identify the Best Stock**: Find the stock with the highest Sharpe ratio.
 
-Match Expected Output: Ensure that your output matches the provided expected results exactly.
+4. **Match Expected Output**: Ensure that your output matches the provided expected results exactly.
 
-Compare with Solutions: Once completed, compare your results with the provided solutions to check for accuracy and alternative approaches.
+5. **Compare with Solutions**: Once completed, compare your results with the provided solutions to check for accuracy and alternative approaches.
 
-Requirements
+### Requirements
 
-Use only NumPy and Pandas libraries.
+- Use only NumPy and Pandas libraries.
 
-All stock price data is provided in the template (no need for external data sources).
+- All stock price data is provided in the template (no need for external data sources).
 
-Follow the instructions in the TODO comments within the code template.
+- Follow the instructions in the TODO comments within the code template.
 
-Evaluation Criteria
+### Evaluation Criteria
 
 Your solution will be assessed based on:
 
-Correctness: Properly implemented calculations.
+1. **Correctness**: Properly implemented calculations.
 
-Output Accuracy: Results must match the expected output precisely.
+2. **Output Accuracy**: Results must match the expected output precisely.
 
-Code Clarity & Organization: Readable and well-structured code.
+3. **Code Clarity & Organization**: Readable and well-structured code.
 
-Expected Output (Example)
+### Expected Output (Example)
 
+```
 Calculating daily returns...
 Calculating statistics...
 
@@ -60,15 +61,14 @@ Portfolio Annual Risk: 0.0894
 Portfolio Sharpe Ratio: 10.4139
 
 Is the portfolio better than the best stock? Yes
+```
 
-Submission Instructions
+### Submission Instructions
 
-Complete the coding challenge by implementing all TODO sections.
+1. Complete the coding challenge by implementing all TODO sections.
 
-Ensure that your output matches the expected results exactly.
+2. Ensure that your output matches the expected results exactly.
 
-Compare your results with the provided solutions to verify correctness and explore alternative approaches.
-
-Submit your completed script via the CU Quants coding challenge platform or as instructed.
+3. Compare your results with the provided solutions to verify correctness and explore alternative approaches.
 
 Happy coding and good luck!
