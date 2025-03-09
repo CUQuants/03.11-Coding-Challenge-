@@ -4,7 +4,7 @@
 
 ### Overview
 
-This challenge is designed to help CU Quants members practice key concepts in quantitative finance, specifically risk and return analysis. Participants will work with stock price data to calculate daily returns, evaluate risk, and determine the best stock to invest in using the Sharpe ratio.
+This challenge is designed to help you practice key concepts in quantitative finance, specifically risk and return analysis. Participants will work with stock price data to calculate daily returns, evaluate risk, and determine the best stock to invest in using the Sharpe ratio.
 
 ### Task Breakdown
 
