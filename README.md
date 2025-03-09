@@ -32,7 +32,7 @@ Your solution will be assessed based on:
 
 1. **Correctness**: Properly implemented calculations.
 
-2. **Output Accuracy**: Results must match the expected output precisely.
+2. **Output Format**: Results must match the provided format precisely.
 
 3. **Code Clarity & Organization**: Readable and well-structured code.
 
