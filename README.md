@@ -14,7 +14,7 @@ This challenge is designed to help you practice key concepts in quantitative fin
 
 3. **Identify the Best Stock**: Find the stock with the highest Sharpe ratio.
 
-4. **Match Expected Output**: Ensure that your output matches the provided expected results exactly.
+4. **Match Expected Output Format**: Ensure that your output format matches the provided format exactly.
 
 5. **Compare with Solutions**: Once completed, compare your results with the provided solutions to check for accuracy and alternative approaches.
 
@@ -36,7 +36,7 @@ Your solution will be assessed based on:
 
 3. **Code Clarity & Organization**: Readable and well-structured code.
 
-### Expected Output (Example)
+### Expected Output Format (Example)
 
 ```
 Calculating daily returns...
